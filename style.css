@@ -1,10 +1,11 @@
 header {
-    color:white;
+    color: white;
 }
 
 li {
-color:black;
+    color: black;
 }
+
 nav {
     text-transform: uppercase;
 }
@@ -13,35 +14,39 @@ nav {
     background-color: grey;
 
 }
+
 header {
-    height:600px;
-    width:100%;
+    height: 600px;
+    width: 100%;
     background-image: url(https://chelseassoapgarden.com/wp-content/uploads/2016/08/green.jpg);
     background-size: cover;
     text-align: center;
-    line-height:150px;
+    line-height: 150px;
     font-family: 'Roboto', sans-serif;
-    font-size:32px;
-    }
-header p{
-    font-style:italic;
+    font-size: 32px;
 }
- .services i{
-font-size: 30px;
-padding: 25px 20px;
-color:white;
-background-color:#5bc0de;
-width:80px;
-height:80px;
-border-radius: 50%;
-	
+
+header p {
+    font-style: italic;
 }
-.services span{
+
+.services i {
+    font-size: 30px;
+    padding: 25px 20px;
+    color: white;
+    background-color: #5bc0de;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+
+}
+
+.services span {
     width: 200px;
-    display:inline-block;
+    display: inline-block;
 }
+
 h1 {
     text-align: center;
     font-family: roboto;
 }
-    
